@@ -1,5 +1,7 @@
-spawncamping-tyrion -- 0.0.1 -- December 21, 2014
+spawncamping-tyrion -- 0.0.1 -- January 9, 2014
 ===================
+
+* Updated Django backend
 
 Sales / Logistics / Analytics Engine
 
